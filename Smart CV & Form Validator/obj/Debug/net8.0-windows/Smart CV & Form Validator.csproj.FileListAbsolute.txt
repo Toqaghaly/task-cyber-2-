@@ -1,0 +1,32 @@
+C:\Users\Server\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\SmartCVFormValidator.Form1.resources
+C:\Users\Server\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\Smart CV & Form Validator.csproj.GenerateResource.cache
+C:\Users\Server\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\Smart CV & Form Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Server\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\Smart CV & Form Validator.AssemblyInfoInputs.cache
+C:\Users\Server\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\Smart CV & Form Validator.AssemblyInfo.cs
+C:\Users\Server\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\Smart CV & Form Validator.csproj.CoreCompileInputs.cache
+C:\Users\Server\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\bin\Debug\net8.0-windows\Smart CV & Form Validator.exe
+C:\Users\Server\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\bin\Debug\net8.0-windows\Smart CV & Form Validator.deps.json
+C:\Users\Server\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\bin\Debug\net8.0-windows\Smart CV & Form Validator.runtimeconfig.json
+C:\Users\Server\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\bin\Debug\net8.0-windows\Smart CV & Form Validator.dll
+C:\Users\Server\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\bin\Debug\net8.0-windows\Smart CV & Form Validator.pdb
+C:\Users\Server\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\Smart CV & Form Validator.dll
+C:\Users\Server\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\refint\Smart CV & Form Validator.dll
+C:\Users\Server\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\Smart CV & Form Validator.pdb
+C:\Users\Server\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\Smart CV & Form Validator.genruntimeconfig.cache
+C:\Users\Server\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\ref\Smart CV & Form Validator.dll
+C:\Users\Administrator\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\bin\Debug\net8.0-windows\Smart CV & Form Validator.exe
+C:\Users\Administrator\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\bin\Debug\net8.0-windows\Smart CV & Form Validator.deps.json
+C:\Users\Administrator\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\bin\Debug\net8.0-windows\Smart CV & Form Validator.runtimeconfig.json
+C:\Users\Administrator\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\bin\Debug\net8.0-windows\Smart CV & Form Validator.dll
+C:\Users\Administrator\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\bin\Debug\net8.0-windows\Smart CV & Form Validator.pdb
+C:\Users\Administrator\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\SmartCVFormValidator.Form1.resources
+C:\Users\Administrator\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\Smart CV & Form Validator.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\Smart CV & Form Validator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\Smart CV & Form Validator.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\Smart CV & Form Validator.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\Smart CV & Form Validator.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\Smart CV & Form Validator.dll
+C:\Users\Administrator\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\refint\Smart CV & Form Validator.dll
+C:\Users\Administrator\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\Smart CV & Form Validator.pdb
+C:\Users\Administrator\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\Smart CV & Form Validator.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\Smart CV & Form Validator\Smart CV & Form Validator\obj\Debug\net8.0-windows\ref\Smart CV & Form Validator.dll
